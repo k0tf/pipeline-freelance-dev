@@ -13,7 +13,7 @@ Un vault [Obsidian](https://obsidian.md) gratuit pour aider les développeurs fr
 
 ## Installation
 
-1. Téléchargez le vault (onglet **Releases**, ou le dossier de ce dépôt) et dézippez-le.
+1. Téléchargez le vault depuis l’onglet Releases et dézippez-le.
 2. Dans Obsidian : *Ouvrir un dossier comme coffre*, puis choisissez le dossier qui contient `00 - Commencer ici`.
 3. Dans *Paramètres, Plugins de base* : activez **Modèles** et **Bases**.
 4. Dans *Paramètres, Modèles* : réglez **Emplacement du dossier de modèles** sur `99 - Templates`.
